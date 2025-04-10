@@ -441,4 +441,4 @@ Typical performance on 1200×900 map with standard CPU:
 - **Sahibjeet Singh**
   - Mapping and environment representation
   - User interface implementation
-  - System integration and performance tuning
+  - System integration and performance tuning 
