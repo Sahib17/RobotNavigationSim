@@ -1,4 +1,4 @@
-# robot Navigation Simulator
+# Robot Navigation Simulator
 
 A computational simulation framework for autonomous robot navigation, pathfinding, and environment mapping implemented in Python using the Pygame library. The system simulates intelligent navigation through complex environments by implementing multiple graph-based and heuristic pathfinding algorithms, utilizing raycast-based obstacle detection, and featuring an advanced dynamic mapping system.
 
